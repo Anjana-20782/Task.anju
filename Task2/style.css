@@ -1,0 +1,421 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+
+    width: 100%;
+    height: 100vh;
+     background-image: url(./images/desktop/image-header.jpg);
+    justify-content: center;
+    display: block;
+    background-position: center;
+    background-size: cover;
+}
+
+.one{
+
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.one h1{
+
+width: 30px;
+height: 20px;
+font-size: 17px;
+color: white;
+padding-left: 20px;
+font-style: normal;
+font-weight: bolder;
+}
+
+.oneitem{
+
+    display: flex;
+   gap: 50px;
+   padding-right: 40px;
+}
+
+.oneitem .item{
+
+   font-size: 14px;
+    color: white;
+    padding-top: 25px;
+}
+
+.oneitem .item1{
+
+    padding-top:15px;
+
+
+}
+
+button{
+
+    width: 90px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 10px;
+    text-transform: uppercase;
+    
+}
+
+.one1{
+
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ 
+
+}
+
+.one1 h1{
+
+    font-size: 40px;
+    letter-spacing: 4px;
+    color: white;
+    font-weight: bolder;
+
+}
+
+.oneimg{
+
+    display: flex;
+    justify-content: center;
+}
+    
+
+.oneimg img{
+
+    width: 30px;
+    height: 90px;
+
+    
+}
+
+
+
+
+/* Two */
+
+
+.nav1{
+
+    width: 100%;
+    height: 70vh;
+    display: flex;
+}
+
+.Two{
+
+    width: 50%;
+    height: 70vh;
+    background-color: white;
+
+}
+
+ .Two .item{
+
+padding-left: 150px;
+padding-top: 130px;
+}
+
+.Two h1{
+
+font-size: 40px;
+height: 20px;
+width: 300px;
+font-weight: bolder;
+font-style: normal;
+
+}
+
+.Two p{
+
+    font-size: 18px;
+    width: 450px;
+    padding-top: 70px;
+    color: gray;
+}
+
+
+.Two h4{
+
+    text-transform: uppercase;
+    font-size: 16px;
+    text-decoration-line:underline ;
+    text-decoration-color: rgb(224, 211, 136);
+    text-decoration-thickness:4px ;
+    
+}
+
+.Two1{
+
+    width: 50%;
+    height: 70vh;
+   background-image: url(./images/desktop/image-transform.jpg);
+}
+
+/* Three */
+
+
+.nav2{
+
+    width: 100%;
+    height: 70vh;
+    display: flex;
+}
+
+.Three{
+
+    width: 50%;
+    height: 70vh;
+    background-image: url(./images/desktop/image-stand-out.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.item1{
+
+    padding-left: 150px;
+padding-top: 130px;
+
+}
+
+
+.Three1{
+
+width: 50%;
+height: 70vh;
+
+    
+}
+
+.Three1 h1{
+
+font-size: 40px;
+height: 20px;
+width: 400px;
+font-weight: bolder;
+font-style: normal;
+}
+
+.Three1 p{
+
+    font-size: 18px;
+    width: 500px;
+    padding-top: 70px;
+    color: gray;
+}
+
+.Three1 h4{
+
+     text-transform: uppercase;
+    font-size: 16px;
+    text-decoration-line:underline ;
+    text-decoration-color: rgb(238, 173, 173);
+    text-decoration-thickness:4px ;
+}
+
+/* four */
+
+
+.nav3{
+
+    width: 100%;
+    height: 70vh;
+    display: flex;
+}
+
+.Four{
+
+    width: 50%;
+    height: 70vh;
+    background-image: url(./images/desktop/image-graphic-design.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.Four .view1{
+
+    padding-left: 150px;
+padding-top: 350px;
+padding-right: 40px;
+}
+
+.view1 h1{
+
+    font-size: 25px;
+height: 20px;
+width: 400px;
+font-weight: bolder;
+font-style: normal;
+color: rgba(5, 9, 5, 0.558);
+padding-right: 40px;
+}
+
+.view1 p{
+
+       font-size: 18px;
+    width: 400px;
+    padding-top: 30px;
+    color: rgb(26, 114, 83);
+
+}
+
+.Four1{
+
+    width: 50%;
+    height: 70vh;
+    background-image: url(./images/desktop/image-photography.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.Four1 .view2{
+
+       padding-left: 150px;
+padding-top: 350px;
+padding-right: 40px;  
+}
+
+
+.view2 h1{
+
+      font-size: 25px;
+height: 20px;
+width: 400px;
+font-weight: bolder;
+font-style: normal;
+color: rgb(5, 81, 106);
+padding-right: 40px;
+}
+
+.view2 p{
+
+      font-size: 18px;
+    width: 400px;
+    padding-top: 30px;
+    color: rgb(5, 81, 106);
+}
+
+
+
+
+
+/* Five */
+
+
+.nav4{
+
+    width: 100%;
+    height: 80vh;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+/* six */
+
+.nav5{
+
+    width: 100%;
+    height: 50vh;
+    display: flex;
+}
+
+.nav5 .six1{
+
+    width: 25%;
+    height: 50vh;
+    background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
+    background-position:center ;
+    background-size: cover;
+    
+}
+
+.nav5 .six2{
+
+    width: 25%;
+    height: 50vh;
+    background-image: url(./images/desktop/image-gallery-orange.jpg);
+    background-position:center ;
+    background-size: cover;
+}
+
+.nav5 .six3{
+
+     width: 25%;
+    height: 50vh;
+    background-image: url(./images/desktop/image-gallery-cone.jpg);
+    background-position:center ;
+    background-size: cover;
+}
+
+.nav5 .six4{
+
+     width: 25%;
+    height: 50vh;
+    background-image: url(./images/desktop/image-gallery-sugarcubes.jpg);
+    background-position:center ;
+    background-size: cover;
+}
+
+
+
+/* seven */
+
+.nav6{
+
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(151, 239, 203);
+    display: block;
+}
+
+.nav6 h1{
+
+    color: rgb(4, 156, 105);
+    font-size: 27px;
+    padding-left: 700px;
+    padding-top: 60px;
+
+}
+
+.nav6 .last{
+
+    display: flex;
+    gap: 40px;
+    color: rgb(7, 160, 114);
+    font-size: 17px;
+    padding-left: 650px;
+    padding-top: 20px;
+
+}
+
+.nav6 .last2{
+
+    
+}
+
+.last2 img{
+
+   background-size: 30px;
+}

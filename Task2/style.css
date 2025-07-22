@@ -39,19 +39,21 @@ font-weight: bolder;
 
     display: flex;
     gap: 60px;
-   padding-right: 40px;
+  margin-right: 40px;
 }
 
 .oneitem .item{
 
    font-size: 20px;
     color: white;
-    padding-top: 30px;
+    margin-top: 30px;
 }
 
 .oneitem .item1{
 
     padding-top:15px;
+    padding-left: 0px;
+   
    
 
 
@@ -255,9 +257,9 @@ font-style: normal;
 
 .Four .view1{
 
-    padding-left: 150px;
+    padding-left: 200px;
 padding-top: 350px;
-padding-right: 40px;
+
 }
 
 .view1 h1{
@@ -268,7 +270,8 @@ width: 400px;
 font-weight: bolder;
 font-style: normal;
 color: rgba(5, 9, 5, 0.558);
-padding-right: 40px;
+
+margin-left: 80px;
 }
 
 .view1 p{
@@ -277,6 +280,7 @@ padding-right: 40px;
     width: 400px;
     padding-top: 30px;
     color: rgb(26, 114, 83);
+   
 
 }
 
@@ -292,9 +296,9 @@ padding-right: 40px;
 
 .Four1 .view2{
 
-       padding-left: 150px;
+       padding-left: 250px;
 padding-top: 350px;
-padding-right: 40px;  
+
 }
 
 
@@ -306,7 +310,7 @@ width: 400px;
 font-weight: bolder;
 font-style: normal;
 color: rgb(5, 81, 106);
-padding-right: 40px;
+margin-left: 80px;
 }
 
 .view2 p{
@@ -362,6 +366,8 @@ padding-right: 40px;
   width: 100px;
   height: 100px;
   border-radius: 50%;
+  /* padding-left: 30px; */
+  margin-left: 80px;
  
   
 
@@ -409,6 +415,7 @@ padding-right: 40px;
      width: 100px;
   height: 100px;
   border-radius: 50%;
+  margin-left: 80px;
 }
 
 .boy1 p{
@@ -454,6 +461,7 @@ display: block;
       width: 100px;
   height: 100px;
   border-radius: 50%;
+  margin-left: 80px;
 }
 
 .girl2 p{
